@@ -2,18 +2,19 @@ import Race from './Race';
 
 class Dwarf extends Race {
   private static DwarfCount = 0;
+  private _maxLifePoints = 80;
 
   static createdRacesInstances(): number {
-    Dwarf.DwarfCount += 1;
     return Dwarf.DwarfCount;
   }
 
-  constructor() {
-    super('Dwarf', 10);
+  constructor(name: string, dexterity: number) {
+    super(name, dexterity);
+    Dwarf.DwarfCount += 1;
   }
 
   get maxLifePoints(): number {
-    return this.maxLifePoints;
+    return this._maxLifePoints;
   }
 }
 
