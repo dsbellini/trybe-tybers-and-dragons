@@ -2,12 +2,12 @@
 Este projeto me ajudou a expandir e sedimentar meus conhecimentos sobre os pilares da Programação Orientada a Objetos e aos princípios SOLID.
 <br />
 
-# O projeto
-<h1> Neste projeto tive a oportunidade de aplicar o conhecimento dos pilares da Programação Orientada a Objetos:</h1>
+<h1>O projeto</h1>
+<h2> Neste projeto tive a oportunidade de aplicar o conhecimento dos pilares da Programação Orientada a Objetos:</h2>
 <br />
 Herança, Abstração, Encapsulamento e Polimorfismo.
 <br />
-<h1>Além de poder praticar:</h1>
+<h2>Além de poder praticar:</h2>
 <br />
 A habilidade de criar e utilizar Interface;
 <br />
