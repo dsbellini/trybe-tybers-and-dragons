@@ -1,4 +1,4 @@
-# :rocket README :rocket
+# :rocket: README :rocket:
 Este projeto me ajudou a expandir e sedimentar meus conhecimentos sobre os pilares da Programação Orientada a Objetos e aos princípios SOLID.
 <br />
 
