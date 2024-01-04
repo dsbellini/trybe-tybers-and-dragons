@@ -16,4 +16,6 @@ A habilidade de utilizar Composição;
 Implementar, em TypeScript, Classes, Instâncias, Atributos, Métodos e Objetos;
 <br />
 O conhecimento e aplicação dos princípios SOLID.
+<br />
+<h2>Todos os arquivos no diretório /src foram desenvolvidos por mim.</h2>
 
